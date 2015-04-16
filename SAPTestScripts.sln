@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPTestScripts", "SAPTestScripts\SAPTestScripts.csproj", "{003E4FCF-157F-448F-BDF6-7D5C724EF82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptTest", "ScriptTest\ScriptTest.csproj", "{43D293C8-883A-47E7-9839-E0660CFF7253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLReport", "GLReport\GLReport.csproj", "{150FA1D9-92BE-4DE4-AF62-65DD8587D97F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003E4FCF-157F-448F-BDF6-7D5C724EF82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003E4FCF-157F-448F-BDF6-7D5C724EF82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003E4FCF-157F-448F-BDF6-7D5C724EF82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003E4FCF-157F-448F-BDF6-7D5C724EF82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D293C8-883A-47E7-9839-E0660CFF7253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D293C8-883A-47E7-9839-E0660CFF7253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D293C8-883A-47E7-9839-E0660CFF7253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D293C8-883A-47E7-9839-E0660CFF7253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150FA1D9-92BE-4DE4-AF62-65DD8587D97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150FA1D9-92BE-4DE4-AF62-65DD8587D97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150FA1D9-92BE-4DE4-AF62-65DD8587D97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150FA1D9-92BE-4DE4-AF62-65DD8587D97F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
